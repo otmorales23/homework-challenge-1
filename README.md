@@ -6,7 +6,7 @@ This webpage was built as an example for adding semantic HTML, alt attributes to
 
 ## Installation
 To view the webpage, simply click on the following link and open in a browser of your choosing (Chrome is recommended). 
-![link to deployed webpage]()
+![link to deployed webpage](https://otmorales23.github.io/homework-challenge-1/)
 
 ## Usage
 This webpage is an example and should be used for learning HTML and/or CSS. You can view the source code in Chrome by right clicking on the webpage and selecting inspect, as shown in the following screenshot. 
