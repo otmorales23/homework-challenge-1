@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This section of styling is specific to the header on the webpage*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/*The header also includes the styling for the navigation links*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,10 +40,12 @@ body {
     margin-left: 25px;
 }
 
+/*Below, the a tag sets the styling for the links in the navigation section; it's part of the stylings in the header*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
+/*end of header styling*/
 
 p {
     font-size: 16px;
@@ -66,12 +70,14 @@ p {
     margin-left: 25px;
 }
 
+/*The content tag includes the styling for everything below the header*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*This includes all of the styling for the individual sections of information*/
 .section {
     margin-bottom: 20px;
     padding: 50px;
@@ -90,7 +96,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end of section styling*/
 
+/*The benefits tag and article tags include the stylings for everything in the aside (on the right hand side of the webpage)*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +125,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end of content stylings*/
 
+/*The following stylings are for the footer of the webpage*/
 .footer {
     padding: 30px;
     clear: both;
@@ -128,3 +138,4 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+/*end of footer styling*/
