@@ -1,4 +1,4 @@
-# Homework Challenge 1
+# Horiseon Webpage Project
 UCB Extension Homework Challenge #1: Horiseon Mock Webpage
 
 ## Description
